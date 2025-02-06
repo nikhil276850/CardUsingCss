@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    background-color: #21D4FD;
+background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.outercard{
+    height: 45%;
+    width: 20%;
+    background-color: #FFDEE9;
+background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+
+
+    
+
+    
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 60px;
+    padding: 50px;
+    gap: 36px;
+
+}
+.imageclass {
+    background-color: black;
+    height: 60%;
+    width: 80%;
+    border: 1px solid blue;
+    border-radius: 60px;
+
+}
+#instaimage{
+    height: 100%;
+    width: 100%;
+    border-radius: 60px;
+}
+.headingclass{
+    height:20% ;
+    width: 80%;
+    text-align: center;
+    
+    font-size: 4rem;
+    color: rgb(28, 28, 27);
+
+}
+.paraclass{
+    height:20% ;
+    width: 80%;
+    text-align: center;
+    color: rgb(3, 56, 38);
+    font-size: 3.2rem;
+}

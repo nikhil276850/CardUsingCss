@@ -1,0 +1,16 @@
+# Card Design Project
+
+Welcome to my **Card Design Project**! This project showcases a visually appealing and responsive card design created using **HTML** and **CSS**. It was one of my early projects while learning web development, and it demonstrates the use of gradients, shadows, and flexbox to create a modern and interactive user interface.
+
+## Features
+
+- **Beautiful Gradients**: The card uses gradient backgrounds to create a visually stunning effect.
+- **Responsive Design**: The layout is fully responsive and adapts to different screen sizes.
+- **Interactive Elements**: Hover effects and shadows enhance user interaction.
+- **Clean Code**: The project is structured with clean and well-commented HTML and CSS.
+
+## Technologies Used
+
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling, including gradients, shadows, and animations.
+- **Flexbox**: For creating a flexible and responsive layout.
